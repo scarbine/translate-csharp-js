@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 
 
-Main()
+Main();
 
 
 void Main()
@@ -16,7 +16,7 @@ List<string> iWishFor = new List<string>()
     "World peace, but not the kind of world peace where all the humans are removed from existence",
     "A TV that is NOT internet-capable",
     "The ability to fly, but, like, really fast...not just, like, how fast I can walk, but, like, fast, you know?"
-}
+};
 
 Console.WriteLine("My wishes...");
 foreach ( string wish in iWishFor){
