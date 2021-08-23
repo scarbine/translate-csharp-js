@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 // Main();
 
-// void Main()
+// static void Main()
 // {
 
     List<List<string>> Tables = new List<List<string>>();
