@@ -88,11 +88,6 @@ Guest IndiraGandhi = new Guest (
 );
 }
 
-// public class Tables
-// {
-//     public List<string> Table1 { get; set; }
-//     public List<string> Table2 { get; set; }
 
-// }
 
 

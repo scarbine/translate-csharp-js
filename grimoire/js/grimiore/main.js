@@ -16,8 +16,8 @@ const makeEvilSpellBook = () =>{
 }
 const makeGoodSpellBook = () =>{
     const goodBook ={};
-    evilBook.title = "Good Book",
-    evilBook.spells = goodSpellBook 
+    goodBook.title = "Good Book",
+    goodBook.spells = goodSpellBook 
     return goodBook
 }
 
