@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 // Main();
 
-// void Main()
+// static void Main()
 // {
 
     List<List<string>> Tables = new List<List<string>>();
@@ -88,11 +88,6 @@ Guest IndiraGandhi = new Guest (
 );
 }
 
-// public class Tables
-// {
-//     public List<string> Table1 { get; set; }
-//     public List<string> Table2 { get; set; }
 
-// }
 
 
